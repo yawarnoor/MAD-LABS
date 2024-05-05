@@ -12,6 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JokeProvider"
         tools:targetApi="31">
+        
         <provider
             android:name=".JokeProvider"
             android:authorities="com.example.jokeprovider"
